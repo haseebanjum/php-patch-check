@@ -1,0 +1,4 @@
+web1: PHP 8.4.26 (cli) (built: Oct  7 2026 10:11:12) (NTS)
+web2: PHP 8.3.36 (cli) (built: Oct 21 2026 14:03:45) (NTS)
+legacy-box: PHP 8.1.30 (cli) (built: Sep 30 2026 08:00:00) (NTS)
+distro-box: PHP 8.3.30 (cli) (built: Oct 25 2026 09:15:00) (NTS)
